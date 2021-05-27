@@ -4,10 +4,9 @@ I'm Jonny, a new grad from University of Toronto studying Computer Science and L
 
 This is where I upload projects about topics I'm interested in!
 
-- ⛏️ I’m currently working on very cool projects 😎
+- ⛏️ I’m currently working on very cool projects 😎 (check my pinned repos below)
 - 📈 I’m currently learning about NLP models 
-- 💬 Ask me about anything related to linguistics or second language learning
-- 📫 How to reach me: myself@jonny.li
+- 💬 Ask me about anything related to linguistics or language learning
 - 😄 Pronouns: He/Him
 - ♟️ Fun fact: I love to play 2-player board games ([go](https://online-go.com/player/453792/), [chess](https://www.chess.com/member/jonnyli), etc.)
 
