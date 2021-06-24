@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jonny, a new grad from University of Toronto studying Computer Science and Linguistics.
+I'm Jonny, a new grad from University of Toronto who majored in Computer Science and Linguistics.
 
 This is where I upload projects about topics I'm interested in!
 
