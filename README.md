@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Jonny, a machine learning engineer at [SoundHound AI](https://www.soundhound.com/). Interested in the engineering side of NLP and ML/AI things.
-
-This is where I upload projects about topics I'm interested in!
+I'm Jonny, a machine learning engineer at [SoundHound AI](https://www.soundhound.com/). This is where I upload projects about topics I'm interested in!
 
 - ⛏️ I’m currently working on LLMs and automatic speech recognition
 - 📈 I’m currently learning about low-level model inference optimization and Rust
