@@ -8,5 +8,8 @@ I'm Jonny, a machine learning engineer at [SoundHound AI](https://www.soundhound
 - 😄 Pronouns: He/Him
 - ♟️ Fun fact: I love to play strategy board games ([go](https://online-go.com/player/453792/), [chess](https://www.chess.com/member/jonnyli), etc.)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyli1125&hide=contribs&count_private=True&show_icons=True&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonnyli1125&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonnyli1125&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonnyli1125&theme=nord_bright)
+
 
