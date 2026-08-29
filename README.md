@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Jonny, a machine learning engineer at [SoundHound AI](https://www.soundhound.com/). This is where I upload projects about topics I'm interested in!
+I'm Jonny. I do ML research engineering and inference optimization at [SoundHound AI](https://www.soundhound.com/). This is where I upload projects about topics I'm interested in!
 
-- ⛏️ I’m currently working on LLMs and automatic speech recognition
-- 📈 I’m currently learning about Rust, C++, and CUDA
+- ⛏️ I’m currently working on building natural, conversational, realtime voice agents
+- 📈 I’m currently learning about LLM inference optimization
 - 💬 Ask me about anything related to linguistics or language learning
 - 😄 Pronouns: He/Him
 - ♟️ Fun fact: I love to play strategy board games ([go](https://online-go.com/player/453792/), [chess](https://www.chess.com/member/jonnyli), etc.)
