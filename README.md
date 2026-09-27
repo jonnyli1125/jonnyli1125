@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jonny. I do ML research engineering and inference optimization at [SoundHound AI](https://www.soundhound.com/). This is where I upload projects about topics I'm interested in!
+I'm Jonny. I do ML research engineering, model efficiency, and inference optimization at [SoundHound AI](https://www.soundhound.com/). This is where I upload projects about topics I'm interested in!
 
 - ⛏️ I’m currently working on building natural, conversational, realtime voice agents
 - 📈 I’m currently learning about LLM inference optimization
