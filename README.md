@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jonny. I do ML research engineering and model efficiency at [SoundHound AI](https://www.soundhound.com/). This is where I upload projects about topics I'm interested in!
+I'm Jonny. I do ML research engineering and performance optimization at [SoundHound AI](https://www.soundhound.com/). This is where I upload projects about topics I'm interested in!
 
 - ⛏️ I’m currently working on optimizing inference and training pipelines for ASR, LLM, and TTS models
 - 📈 I’m currently learning about Triton and CUDA
